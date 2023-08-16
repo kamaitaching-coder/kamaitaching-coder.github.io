@@ -52,12 +52,12 @@
 <p>linux下载</p>
 <p>​	<a href="https://www.python.org/ftp/python//2.7.14/python-2.7.14..tar.bz2">https://www.python.org/ftp/python//2.7.14/python-2.7.14..tar.bz2</a></p>
 </blockquote>
-<h1 id="2-windows安装"><a href="#2-windows安装" class="headerlink" title="2. windows安装"></a>2. windows安装</h1><h2 id="2-1-点击安装"><a href="#2-1-点击安装" class="headerlink" title="2.1 点击安装"></a>2.1 点击安装</h2><p><img src="/images/envbuild/python2/python2.7-install-1.png" alt="image-20230329105058061"></p>
-<h2 id="2-2-配置环境变量"><a href="#2-2-配置环境变量" class="headerlink" title="2.2 配置环境变量"></a>2.2 配置环境变量</h2><h3 id="2-2-1-右击此电脑-This-PC-，点击属性-Properties"><a href="#2-2-1-右击此电脑-This-PC-，点击属性-Properties" class="headerlink" title="2.2.1 右击此电脑(This PC)，点击属性(Properties)"></a>2.2.1 右击此电脑(This PC)，点击属性(Properties)</h3><p><img src="/images/envbuild/python2/python2.7-env-1.png" alt="image-20230329105733289"></p>
-<h3 id="2-2-2-点击高级系统设置-Advanced-system-setting"><a href="#2-2-2-点击高级系统设置-Advanced-system-setting" class="headerlink" title="2.2.2  点击高级系统设置(Advanced system setting)"></a>2.2.2  点击高级系统设置(Advanced system setting)</h3><p><img src="/images/envbuild/python2/python2.7-env-2.png" alt="image-20230329110012215"></p>
-<h3 id="2-2-3-点击环境变量-Environment-Vaniables"><a href="#2-2-3-点击环境变量-Environment-Vaniables" class="headerlink" title="2.2.3 点击环境变量(Environment Vaniables)"></a>2.2.3 点击环境变量(Environment Vaniables)</h3><p><img src="/images/envbuild/python2/python2.7-env-3.png" alt="image-20230329110318507"></p>
+<h1 id="2-windows安装"><a href="#2-windows安装" class="headerlink" title="2. windows安装"></a>2. windows安装</h1><h2 id="2-1-点击安装"><a href="#2-1-点击安装" class="headerlink" title="2.1 点击安装"></a>2.1 点击安装</h2><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-install-1.png" alt="image-20230329105058061"></p>
+<h2 id="2-2-配置环境变量"><a href="#2-2-配置环境变量" class="headerlink" title="2.2 配置环境变量"></a>2.2 配置环境变量</h2><h3 id="2-2-1-右击此电脑-This-PC-，点击属性-Properties"><a href="#2-2-1-右击此电脑-This-PC-，点击属性-Properties" class="headerlink" title="2.2.1 右击此电脑(This PC)，点击属性(Properties)"></a>2.2.1 右击此电脑(This PC)，点击属性(Properties)</h3><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-env-1.png" alt="image-20230329105733289"></p>
+<h3 id="2-2-2-点击高级系统设置-Advanced-system-setting"><a href="#2-2-2-点击高级系统设置-Advanced-system-setting" class="headerlink" title="2.2.2  点击高级系统设置(Advanced system setting)"></a>2.2.2  点击高级系统设置(Advanced system setting)</h3><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-env-2.png" alt="image-20230329110012215"></p>
+<h3 id="2-2-3-点击环境变量-Environment-Vaniables"><a href="#2-2-3-点击环境变量-Environment-Vaniables" class="headerlink" title="2.2.3 点击环境变量(Environment Vaniables)"></a>2.2.3 点击环境变量(Environment Vaniables)</h3><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-env-3.png" alt="image-20230329110318507"></p>
 <h3 id="2-2-4-选择系统变量下的Path双击"><a href="#2-2-4-选择系统变量下的Path双击" class="headerlink" title="2.2.4 选择系统变量下的Path双击"></a>2.2.4 选择系统变量下的Path双击</h3><p><img src="/images/envbuild/python2/python2.7-env-4.png" alt="image-20230329110429188"></p>
-<h3 id="2-2-5-点击New-输入Python2-7的安装路径"><a href="#2-2-5-点击New-输入Python2-7的安装路径" class="headerlink" title="2.2.5 点击New,输入Python2.7的安装路径"></a>2.2.5 点击New,输入Python2.7的安装路径</h3><p><img src="/images/envbuild/python2/python2.7-env-5.png" alt="image-20230329110727585"></p>
+<h3 id="2-2-5-点击New-输入Python2-7的安装路径"><a href="#2-2-5-点击New-输入Python2-7的安装路径" class="headerlink" title="2.2.5 点击New,输入Python2.7的安装路径"></a>2.2.5 点击New,输入Python2.7的安装路径</h3><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-env-5.png" alt="image-20230329110727585"></p>
 <h3 id="2-2-6-点击OK关闭所有窗口"><a href="#2-2-6-点击OK关闭所有窗口" class="headerlink" title="2.2.6 点击OK关闭所有窗口"></a>2.2.6 点击OK关闭所有窗口</h3><blockquote>
 <p>无描述</p>
 </blockquote>
@@ -65,13 +65,13 @@
 <p><a href="https://files.pythonhosted.org/packages/ca/e6/97a6ea040026f2c86abb96827990ace8cdfdfa05967fc3f7dd7461ce4b39/setuptools-40.9.0.zip">https://files.pythonhosted.org/packages/ca/e6/97a6ea040026f2c86abb96827990ace8cdfdfa05967fc3f7dd7461ce4b39/setuptools-40.9.0.zip</a></p>
 <p><a href="https://files.pythonhosted.org/packages/53/7f/55721ad0501a9076dbc354cc8c63ffc2d6f1ef360f49ad0fbcce19d68538/pip-20.3.4.tar.gz">https://files.pythonhosted.org/packages/53/7f/55721ad0501a9076dbc354cc8c63ffc2d6f1ef360f49ad0fbcce19d68538/pip-20.3.4.tar.gz</a></p>
 </blockquote>
-<h4 id="2-3-1-2-解压下载的压缩包"><a href="#2-3-1-2-解压下载的压缩包" class="headerlink" title="2.3.1.2 解压下载的压缩包"></a>2.3.1.2 解压下载的压缩包</h4><p><img src="/images/envbuild/python2/python2.7-issues-pip-1.png" alt="image-20230329111950132"></p>
+<h4 id="2-3-1-2-解压下载的压缩包"><a href="#2-3-1-2-解压下载的压缩包" class="headerlink" title="2.3.1.2 解压下载的压缩包"></a>2.3.1.2 解压下载的压缩包</h4><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-issues-pip-1.png" alt="image-20230329111950132"></p>
 <h4 id="2-3-1-3-在此处使用管理员打开命令行，输入命令"><a href="#2-3-1-3-在此处使用管理员打开命令行，输入命令" class="headerlink" title="2.3.1.3 在此处使用管理员打开命令行，输入命令"></a>2.3.1.3 在此处使用管理员打开命令行，输入命令</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">python setup.py install </span><br></pre></td></tr></table></figure>
 
-<p><img src="/images/envbuild/python2/python2.7-issues-pip-2.png" alt="image-20230329112042839"></p>
-<h4 id="2-3-1-4-解压pip压缩包"><a href="#2-3-1-4-解压pip压缩包" class="headerlink" title="2.3.1.4 解压pip压缩包"></a>2.3.1.4 解压pip压缩包</h4><p><img src="/images/envbuild/python2/python2.7-issues-pip-3.png" alt="image-20230329112951797"></p>
-<h4 id="2-3-1-5-安装pip"><a href="#2-3-1-5-安装pip" class="headerlink" title="2.3.1.5 安装pip"></a>2.3.1.5 安装pip</h4><p><img src="/images/envbuild/python2/python2.7-issues-pip-4.png" alt="image-20230329113200895"></p>
-<h4 id="2-3-1-6-检验pip"><a href="#2-3-1-6-检验pip" class="headerlink" title="2.3.1.6 检验pip"></a>2.3.1.6 检验pip</h4><p><img src="/images/envbuild/python2images/python2.7-issues-pip-5.png" alt="image-20230329113337518"></p>
+<p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-issues-pip-2.png" alt="image-20230329112042839"></p>
+<h4 id="2-3-1-4-解压pip压缩包"><a href="#2-3-1-4-解压pip压缩包" class="headerlink" title="2.3.1.4 解压pip压缩包"></a>2.3.1.4 解压pip压缩包</h4><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-issues-pip-3.png" alt="image-20230329112951797"></p>
+<h4 id="2-3-1-5-安装pip"><a href="#2-3-1-5-安装pip" class="headerlink" title="2.3.1.5 安装pip"></a>2.3.1.5 安装pip</h4><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-issues-pip-4.png" alt="image-20230329113200895"></p>
+<h4 id="2-3-1-6-检验pip"><a href="#2-3-1-6-检验pip" class="headerlink" title="2.3.1.6 检验pip"></a>2.3.1.6 检验pip</h4><p><img src="/images/envbuild/python2%E5%AE%89%E8%A3%85/python2.7-issues-pip-5.png" alt="image-20230329113337518"></p>
 ]]></content>
       <categories>
         <category>环境搭建</category>
