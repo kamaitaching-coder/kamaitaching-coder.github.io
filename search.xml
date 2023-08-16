@@ -51,11 +51,11 @@
 <h2 id="解压压缩包"><a href="#解压压缩包" class="headerlink" title="解压压缩包"></a>解压压缩包</h2><blockquote>
 <p>tar -zxvf Python-3.11.4.tgz</p>
 </blockquote>
-<p><img src="/./images/Python3%E5%AE%89%E8%A3%85/image-20230614103627656.png" alt="解压压缩包"></p>
+<p><img src="/images/envbuild/Python3%E5%AE%89%E8%A3%85/image-20230614103627656.png" alt="解压压缩包"></p>
 <h2 id="进入解压后的文件夹"><a href="#进入解压后的文件夹" class="headerlink" title="进入解压后的文件夹"></a>进入解压后的文件夹</h2><blockquote>
 <p>cd Python-3.11.4</p>
 </blockquote>
-<p><img src="/./images/Python3%E5%AE%89%E8%A3%85/image-20230614103834600.png" alt="进入解压的目录"></p>
+<p><img src="/images/envbuild/Python3%E5%AE%89%E8%A3%85/image-20230614103834600.png" alt="进入解压的目录"></p>
 <h2 id="安装编译工具和依赖库"><a href="#安装编译工具和依赖库" class="headerlink" title="安装编译工具和依赖库"></a>安装编译工具和依赖库</h2><blockquote>
 <p>yum -y groupinstall “Development tools”</p>
 </blockquote>
